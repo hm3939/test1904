@@ -7,4 +7,6 @@ import javax.ws.rs.core.Application;
 public class HelloApplication extends Application {
     private String id;
     private String phone;
+    private String age;
+
 }
